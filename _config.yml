@@ -34,6 +34,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 instagram_username: itsnickkane
+substack_username: itsnickkane
 
 # Build settings
 theme: minima
