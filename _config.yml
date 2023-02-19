@@ -23,7 +23,7 @@ baseurl: /website/bundle/
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: itsnickkane
+title: Nick's Blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,10 +31,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-instagram_username: itsnickkane
-substack_username: itsnickkane
+twitter_username: itsnickkane
+github_username:  itsnickkane
+
+
 
 # Build settings
 theme: minima
