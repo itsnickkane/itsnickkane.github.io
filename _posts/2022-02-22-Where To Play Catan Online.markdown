@@ -4,7 +4,7 @@ layout: post
 title: "Where To Play Catan Online"
 date: 2023-02-20
 author: itsnickkane
-
+category: jekyll-update
 ---
 
 I've been living in Mexico for the past 5 months. I started in La Paz, met a girl, and followed her to Monterrey for the holidays. Around Christmas time we had some of her friends over to my Airbnb to hang out and play Catan. I belive this was the second time I had ever played Catan. A few years ago I played with my roomates, but it was my first time and the tutorial I received left a lot to be desired. All I remembered was ports are important. 
