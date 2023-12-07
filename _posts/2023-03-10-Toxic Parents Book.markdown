@@ -1,7 +1,7 @@
 ---
 youtubeId: P3EhcOT4JyA
 layout: post
-title: "Layer 2 Investment Thesis 2024"
+title: "Ethereum Rollups - 2024 Meta"
 date: 2023-12-06
 author: Nick Kane
 
