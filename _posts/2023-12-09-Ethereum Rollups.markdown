@@ -1,5 +1,5 @@
 ---
-youtubeId1: wJVcmrMDLro
+youtubeId1: YEC7VWiPOuo
 youtubeId2: uvPz7jAlO-0
 youtubeId3: 0dIjn7g1VTg
 youtubeId4: XhN9QMXujGE
@@ -10,13 +10,13 @@ author: Nick Kane
 ---
 
 
-## Arbitrum
+## OVERVIEW
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
-Ben provides a very balanced view of the market overall. He uses a logrithmic regression and other data modeling techniques. 
 
-## Optimism
+
+## Arbitrum
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
@@ -28,13 +28,15 @@ The home of Ethereum news. Breaking lots of Alpha and covering all of the top na
 
 Good at finding small cap alpha
 
-## Polygon
+## Optimism
 
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
 Great Macro perspective from a world class global macro veteran.
 
-## Mantle
+## Polygon
 
 ## Avalanche
+
+## Mantle
 
