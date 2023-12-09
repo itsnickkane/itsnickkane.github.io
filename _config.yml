@@ -24,7 +24,7 @@ baseurl: "/"
 # in the templates via {{ site.myvariable }}.
 
 title: itsnickkane
-email: nicholas.r.kane@gmail.com
+# email: nicholas.r.kane@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Research, not investment advice
 baseurl: "" # the subpath of your site, e.g. /blog
