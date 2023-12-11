@@ -11,22 +11,35 @@ date: 2023-12-10
 author: Nick Kane
 ---
 
-# YouTube
-
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
-## Heading 2
+# Heading 1 YouTube
+## Heading 2 YouTube
 ### Is this a heading 3? 
 #### Would this be a heading 4 is it smaller?
 ##### We've got 5 hashtags on this one... does that make it heading 5
+What does normal text look like, is this smaller than the 5 hashtag headings above? 
 
-# Vimeo
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 
-# Instagram 
+# Heading 1 Vimeo
+## Heading 2 Vimeo video
+### Is this a heading 3? 
+#### Would this be a heading 4 is it smaller?
+##### We've got 5 hashtags on this one... does that make it heading 5
+What does normal text look like, is this smaller than the 5 hashtag headings above? 
+
 
 {% include instagramPlayer.html id=page.instagramId %}
+
+# Instagram
+## Heading 2 Instagram video
+### Is this a heading 3? 
+#### Would this be a heading 4 is it smaller?
+##### We've got 5 hashtags on this one... does that make it heading 5
+What does normal text look like, is this smaller than the 5 hashtag headings above? 
+
 
 ## Liquid Staking 
 
