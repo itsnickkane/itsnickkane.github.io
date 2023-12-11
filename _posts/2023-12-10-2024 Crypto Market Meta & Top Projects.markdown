@@ -3,6 +3,7 @@ youtubeId1: YEC7VWiPOuo
 youtubeId2: uvPz7jAlO-0
 youtubeId3: 0dIjn7g1VTg
 youtubeId4: XhN9QMXujGE
+vimeoId: 271940482
 layout: post
 title: "Crypto Market Meta & Top Projects"
 date: 2023-12-10
@@ -18,7 +19,7 @@ author: Nick Kane
 ##### Plasma
 ##### EVM Chains
 
-{% include youtubePlayer.html id=page.youtubeId1 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 
 ## Liquid Staking 
