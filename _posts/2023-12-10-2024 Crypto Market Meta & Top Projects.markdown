@@ -18,9 +18,11 @@ author: Nick Kane
 ### Is this a heading 3? 
 #### Would this be a heading 4 is it smaller?
 ##### We've got 5 hashtags on this one... does that make it heading 5
-What does normal text look like, is this smaller than the 5 hashtag headings above? 
+What does normal text look like, is this smaller than the 5 hashtag 
 
-Gotta add them stinky links! [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- [Jekyll docs][jekyll-docs] 
+- [Jekyll’s GitHub repo][jekyll-gh]
+1. [Jekyll Talk][jekyll-talk]
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
