@@ -43,7 +43,7 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 
-{% highlight %}
+{% highlight ruby %}
 This is stuff that goes in the highlight
 1+1=2
 look at me doing math, ill call it a program.
