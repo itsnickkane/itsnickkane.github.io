@@ -53,6 +53,6 @@ What does normal text look like, is this smaller than the 5 hashtag
 
 {% include instagramPlayer.html id=page.instagramId4 %}
 
-## Twitter Post Baby! :joy:
+## Twitter Post Baby!
 
 {% include twitterPlayer.html id=page.twitterId %}
