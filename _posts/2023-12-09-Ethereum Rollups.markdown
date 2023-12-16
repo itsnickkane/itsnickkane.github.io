@@ -3,9 +3,9 @@ youtubeId1: YEC7VWiPOuo
 youtubeId2: uvPz7jAlO-0
 youtubeId3: 0dIjn7g1VTg
 vimeoId: 271940482
-instagramId1: CzlEkcUO7f8
+instagramId1: C0ZFt9Zsxjb
 instagramId2: C0hn4R5IPVc
-instagram3: 
+instagramId3: 
 layout: post
 title: "Ethereum Rollups"
 date: 2023-12-09
@@ -46,3 +46,10 @@ What does normal text look like, is this smaller than the 5 hashtag
 ## Instagram 2 Hastags
 
 {% include instagramPlayer.html id=page.instagramId2 %}
+
+#
+
+{% include instagramPlayer.html id=page.instagramId3 %}
+
+#
+
