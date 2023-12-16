@@ -29,8 +29,6 @@ What does normal text look like, is this smaller than the 5 hashtag
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-
-
 {% include vimeoPlayer.html id=page.vimeoId %}
 
 # Heading 1 Vimeo
@@ -51,43 +49,5 @@ What does normal text look like, is this smaller than the 5 hashtag headings abo
 What does normal text look like, is this smaller than the 5 hashtag headings above? 
 
 
-## Liquid Staking 
-
-{% include youtubePlayer.html id=page.youtubeId2 %}
-
-## Ordinals
-##### BRC 20
-##### DRC 20
-
-{% include youtubePlayer.html id=page.youtubeId1 %}
-
-
-## DeFi 
-
-{% include youtubePlayer.html id=page.youtubeId1 %}
-
-
-## Real World Assets (REA)
-
-{% include youtubePlayer.html id=page.youtubeId1 %}
-
-
-## Privacy
-
-{% include youtubePlayer.html id=page.youtubeId1 %}
-
-
-## Meme Coins
-
-{% include youtubePlayer.html id=page.youtubeId1 %}
-
-
-## Alt Layer 1s
-
-{% include youtubePlayer.html id=page.youtubeId1 %}
-
-
-
-## 
-
-
+## Twitter
+{% include twitter
