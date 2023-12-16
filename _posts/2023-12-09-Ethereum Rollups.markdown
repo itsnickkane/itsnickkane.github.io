@@ -2,41 +2,45 @@
 youtubeId1: YEC7VWiPOuo
 youtubeId2: uvPz7jAlO-0
 youtubeId3: 0dIjn7g1VTg
-youtubeId4: XhN9QMXujGE
+vimeoId: 271940482
+instagramId1: CzlEkcUO7f8
+instagramId2: CzeLJegJyKD
+instagram3: 
 layout: post
 title: "Ethereum Rollups"
 date: 2023-12-09
 author: Nick Kane
 ---
 
-
-## OVERVIEW
+## YouTube Heading 2
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
+#### Would this be a heading 4 is it smaller? How small is this?
 
+What does normal text look like, is this smaller than the 5 hashtag 
 
-## Arbitrum
+- [Jekyll docs][jekyll-docs] 
+- [Jekyll’s GitHub repo][jekyll-gh]
 
-{% include youtubePlayer.html id=page.youtubeId2 %}
+1. [Jekyll Talk][jekyll-talk]
+2. [Markdown Syntax Documentation][markdown-doc]
 
-The home of Ethereum news. Breaking lots of Alpha and covering all of the top narratives and innovations first. The place for legitimate projects to be interviewed and the place for scam projects to be exposed (SBF).
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+[markdown-doc]: https://www.markdownguide.org/extended-syntax/
 
-## Base
+# Heading One Vimeo
 
-{% include youtubePlayer.html id=page.youtubeId3 %}
+{% include vimeoPlayer.html id=page.vimeoId %}
 
-Good at finding small cap alpha
+### There are three hastags here
 
-## Optimism
+##### We've got 5 hashtags on this one... does that make it heading 5
 
-{% include youtubePlayer.html id=page.youtubeId4 %}
+# Instagram 1 Hastag
 
-Great Macro perspective from a world class global macro veteran.
+{% include instagramPlayer.html id=page.instagramId %}
 
-## Polygon
-
-## Avalanche
-
-## Mantle
-
+## Instagram  2 
