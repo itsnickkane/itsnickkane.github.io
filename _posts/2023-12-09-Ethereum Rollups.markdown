@@ -41,6 +41,8 @@ What does normal text look like, is this smaller than the 5 hashtag
 
 # Instagram 1 Hastag
 
-{% include instagramPlayer.html id=page.instagramId %}
+{% include instagramPlayer.html id=page.instagramId1 %}
 
-## Instagram  2 
+## Instagram 2 Hastags
+
+{% include instagramPlayer.html id=page.instagramId2 %}
