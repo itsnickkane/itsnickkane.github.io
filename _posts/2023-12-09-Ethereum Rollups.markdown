@@ -7,6 +7,7 @@ instagramId1: C0ZFt9Zsxjb
 instagramId2: C0hn4R5IPVc
 instagramId3: C0o2owStJWu
 instagramId4: Cx7G2eEJVF7
+twitterId: CoinbaseWallet/status/1735016950596554783
 layout: post
 title: "Ethereum Rollups"
 date: 2023-12-09
@@ -52,4 +53,6 @@ What does normal text look like, is this smaller than the 5 hashtag
 
 {% include instagramPlayer.html id=page.instagramId4 %}
 
-{% include youtubePlayer.html id=page.youtubeId2 %}
+## Twitter Post Baby! :joy:
+
+{% include twitterPlayer.html id=page.twitterId %}
