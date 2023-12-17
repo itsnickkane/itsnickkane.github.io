@@ -4,7 +4,7 @@ youtubeId2: uvPz7jAlO-0
 youtubeId3: 0dIjn7g1VTg
 youtubeId4: XhN9QMXujGE
 vimeoId: 271940482
-instagramId: CzlEkcUO7f8
+instagramId: CzXBNZTNE16
 twitterId: CoinbaseWallet/status/1732098052335260117
 layout: post
 title: "The Bull Case For Ethereum Rollups in 2024"
