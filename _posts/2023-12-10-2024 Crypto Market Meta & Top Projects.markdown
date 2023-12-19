@@ -6,6 +6,7 @@ youtubeId4: XhN9QMXujGE
 vimeoId: 271940482
 instagramId: CzlEkcUO7f8
 twitterId: CoinbaseWallet/status/1732098052335260117
+twitterId1: CoinbaseWallet/status/1735016950596554783
 layout: post
 title: "Crypto Market Meta & Top Projects"
 date: 2023-12-10
@@ -52,3 +53,6 @@ What does normal text look like, is this smaller than the 5 hashtag headings abo
 
 ## Twitter
 {% include twitterPlayer.html id=page.twitterId %}
+
+## X.com
+{% include twitterPlayer.html id=page.twitterId1 %}
